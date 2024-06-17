@@ -1,0 +1,9 @@
+gradio==4.36.1
+librosa==0.8.1
+numpy==2.0.0
+openai_whisper==20231117
+paddlespeech==1.4.0
+pydub==0.25.1
+soundfile==0.12.1
+torch==1.13.1+cu117
+transformers==4.33.1
